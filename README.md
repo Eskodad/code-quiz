@@ -1,7 +1,5 @@
 # Project: Web APIs: Code Quiz
 
-  Deployable Link - > https://reindeercode.github.io/Web-APIs-Code-Quiz/
-
 
 ## Table of Contents: 
 - [Project: Web APIs: Code Quiz](#project-web-apis-code-quiz)
