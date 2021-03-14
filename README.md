@@ -23,7 +23,7 @@ To test type Click "Start Quiz" and answer questions. into the terminal
 
 ## Websites
 
-Web URL: 
+Web URL: https://eskodad.github.io/code-quiz/
 
 GitHub URL: https://github.com/Eskodad/code-quiz/
 
