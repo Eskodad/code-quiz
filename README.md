@@ -33,10 +33,9 @@ None
 
 ## Images:
 
-![Project Screenshot](./Assets/LaunchPage.png)
-![Project Screenshot](./Assets/AskQuestionExample.png)
-![Project Screenshot](./Assets/CorrectAnswerExample.png)
-![Project Screenshot](./Assets/WrongAnswerExample.png)
-![Project Screenshot](./Assets/FinishPageExample.png)
-![Project Screenshot](./Assets/HighScoreExample.png)
-# code-quiz
+![Project Screennshot](./assets/images/LaunchPage.png
+![Project Screenshot](./Assets/images/AskQuestionExample.png)
+![Project Screenshot](./Assets/images/CorrectAnswerExample.png)
+![Project Screenshot](./Assets/images/WrongAnswerExample.png)
+![Project Screenshot](./Assets/images/FinishPageExample.png)
+![Project Screenshot](./Assets/images/HighScoreExample.png)
