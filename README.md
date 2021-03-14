@@ -7,9 +7,9 @@
   - [Description:](#description)
   - [Installation Instructions:](#installation-instructions)
   - [Test Command:](#test-command)
-  - [Websites:](#websites)
+  - [Websites](#websites)
   - [Other Contributors:](#other-contributors)
-  - [Images:](#images)
+  - [Images](#images)
 
 
 ## Description:
