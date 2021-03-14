@@ -35,7 +35,7 @@ None
 
 ![Project Screenshot](./assets/images/LaunchPage.png)
 ![Project Screenshot](./assets/images/AskQuestionExample.png)
-![Project Screenshot](./Assets/images/CorrectAnswerExample.png)
-![Project Screenshot](./Assets/images/WrongAnswerExample.png)
-![Project Screenshot](./Assets/images/FinishPageExample.png)
-![Project Screenshot](./Assets/images/HighScoreExample.png)
+![Project Screenshot](./assets/images/CorrectAnswerExample.png)
+![Project Screenshot](./assets/images/WrongAnswerExample.png)
+![Project Screenshot](./assets/images/FinishPageExample.png)
+![Project Screenshot](./assets/images/HighScoreExample.png)
