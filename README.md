@@ -7,8 +7,7 @@
   - [Description:](#description)
   - [Installation Instructions:](#installation-instructions)
   - [Test Command:](#test-command)
-  - [Github:](#github)
-  - [My Email Address:](#my-email-address)
+  - [Websites:](#websites)
   - [Other Contributors:](#other-contributors)
   - [Images:](#images)
 
@@ -21,6 +20,12 @@ Launch site in default browser.
 
 ## Test Command: 
 To test type Click "Start Quiz" and answer questions. into the terminal
+
+## Websites
+
+Web URL: 
+
+GitHub URL: https://github.com/Eskodad/code-quiz/
 
 
 ## Other Contributors:
