@@ -33,8 +33,8 @@ None
 
 ## Images:
 
-![Project Screennshot](./assets/images/LaunchPage.png)
-![Project Screenshot](./Assets/images/AskQuestionExample.png)
+![Project Screenshot](./assets/images/LaunchPage.png)
+![Project Screenshot](./assets/images/AskQuestionExample.png)
 ![Project Screenshot](./Assets/images/CorrectAnswerExample.png)
 ![Project Screenshot](./Assets/images/WrongAnswerExample.png)
 ![Project Screenshot](./Assets/images/FinishPageExample.png)
