@@ -3,12 +3,12 @@
 
 ## Table of Contents: 
 - [Project: Web APIs: Code Quiz](#project-web-apis-code-quiz)
-  - [Table of Contents:](#table-of-contents)
-  - [Description:](#description)
-  - [Installation Instructions:](#installation-instructions)
-  - [Test Command:](#test-command)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Installation Instructions](#installation-instructions)
+  - [Test Command](#test-command)
   - [Websites](#websites)
-  - [Other Contributors:](#other-contributors)
+  - [Other Contributors](#other-contributors)
   - [Images](#images)
 
 
